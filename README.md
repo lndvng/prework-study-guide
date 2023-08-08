@@ -17,3 +17,5 @@ To use this Study Guide, you can review the note in each section. For suggestion
 N/a
 
 ## License
+
+Please refer to the LICENSE in the repo.
